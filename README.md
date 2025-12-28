@@ -6,7 +6,7 @@ My passion for programming started before university when I taught myself the ba
 * 🌍  I'm based in Dominican Republic
 
 <a href="https://www.github.com/jyhro" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/yeiserbytes?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" />
+  <img src="https://img.shields.io/github/followers/jyhro?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" />
 </a>
 
 # 💻 Tech Stack:
